@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on lightwindow</title>
+    <link>http://localhost:1313/tags/tag2/</link>
+    <description>Recent content in Tag2 on lightwindow</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 21:12:30 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post2</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Wed, 31 Jul 2024 21:12:30 +0530</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description>header of post2 </description>
+    </item>
+  </channel>
+</rss>

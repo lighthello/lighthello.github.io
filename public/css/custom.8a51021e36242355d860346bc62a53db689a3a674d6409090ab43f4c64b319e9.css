@@ -1,0 +1,27 @@
+body {
+  background-color: #000000;
+  color: #ECE5DA;
+}
+
+a {
+  border-bottom: 0px solid var(--darkMaincolor);
+  color: inherit;
+  font-style: bold;
+  font-size: 20px;
+}
+
+a:hover {
+  background-color: #000000;
+  border-bottom: 3px solid #ff0000;
+  color: #ffffff;
+}
+
+.tags a {
+  border-bottom: 0px solid var(--darkMaincolor);
+}
+
+.tags a:hover {
+  background-color: #000000;
+  border-bottom: 3px solid #ff0000;
+  color: #ffffff;
+}
