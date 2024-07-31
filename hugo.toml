@@ -3,15 +3,21 @@ languageCode = 'en-us'
 title = 'lightwindow'
 theme = 'archie'
 
-paginate=10 # articles per page
+paginate = 10 # articles per page
 
 [params]
-	mode="dark" # color-mode → light,dark,toggle or auto
-	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "stuff about programming"
-	mathjax = true # enable MathJax support
-	katex = true # enable KaTeX support
-	customcss = ["css/custom.css"]
+mode = "dark" # color-mode → light,dark,toggle or auto
+useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
+subtitle = '''
+stuff about programming \
+\
+Credits \
+Made with: [Hugo](https://gohugo.io) \
+Hugo theme: [Archie](https://github.com/athul/archie)
+'''
+mathjax = true # enable MathJax support
+katex = true # enable KaTeX support
+customcss = ["css/custom.css"]
 # Social Tags
 
 [[params.social]]
