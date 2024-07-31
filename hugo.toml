@@ -1,7 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = "https://lightwindow.github.io/"
 languageCode = 'en-us'
 title = 'lightwindow'
 theme = 'archie'
+
+paginate=10 # articles per page
 
 [params]
 	mode="dark" # color-mode → light,dark,toggle or auto
