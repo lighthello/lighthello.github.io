@@ -24,11 +24,9 @@ a:hover {
   color: #ffffff !important;
 }
 
-header .main{
-  font-weight: 800;
-  font-size: 28px;
+header {
+  font-weight: 900;
 }
 header nav{
-  font-weight: 800;
-  font-size: 18px;
+  font-size: 20px;
 }
